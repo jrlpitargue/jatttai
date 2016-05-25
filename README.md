@@ -10,3 +10,6 @@ cd jattai
 javac -d bin src/*
 java -cp bin Main
 ```
+# Authors
+Joseph Alcantara
+Richard Pitargue
