@@ -11,6 +11,5 @@ javac -d bin src/*
 java -cp bin Main
 ```
 # Authors
-Joseph Alcantara
-
-Richard Pitargue
+[Joseph Alcantara](https://github.com/Josif78)<br/>
+[Richard Pitargue](https://github.com/richardpitargue)
