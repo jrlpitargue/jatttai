@@ -12,4 +12,5 @@ java -cp bin Main
 ```
 # Authors
 Joseph Alcantara
+
 Richard Pitargue
